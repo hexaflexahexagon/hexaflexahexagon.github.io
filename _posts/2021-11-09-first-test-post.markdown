@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Test Post"
-date:   2021-11-09 22:21:00 -0400
 categories: jekyll
 ---
 
