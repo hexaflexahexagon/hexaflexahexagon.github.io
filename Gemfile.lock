@@ -1,5 +1,4 @@
 GEM
-  remote: https://rubygems.org/
   specs:
     activesupport (6.0.4.1)
       concurrent-ruby (~> 1.0, >= 1.0.2)
@@ -273,7 +272,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages (~> 219)
   jekyll-feed (~> 0.12)
-  minima (~> 2.5)
+  jekyll-seo-tag (~> 2.6)
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.1)

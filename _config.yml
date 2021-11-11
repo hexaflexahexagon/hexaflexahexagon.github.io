@@ -30,9 +30,11 @@ twitter_username: flexahexagon
 github_username: hexaflexahexagon
 
 # Build settings
-theme: minima
-plugins:
-  - jekyll-feed
+
+# Commented out, as we now hold all the minima files in this repo
+# theme: minima
+# plugins:
+#   - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
