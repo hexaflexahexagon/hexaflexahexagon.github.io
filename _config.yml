@@ -6,6 +6,7 @@ description: >-
 domain: hexaflexahexagon.github.io
 baseurl: / # the subpath of your site, e.g. /blog
 url: https://hexaflexahexagon.github.io 
+permalink: /post/:title
 
 # Socials
 twitter_username: flexahexagon
