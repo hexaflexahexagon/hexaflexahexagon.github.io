@@ -17,6 +17,17 @@ then
 	exit 1
 fi
 
+if [ $1 == "restart" ]
+then
+	PID=$( ps aux | grep "jekyll serve" | head -1 | head -c 14 | tail -c 4 )
+	kill $PID
+	bundle exec jekyll serve --incremental &
+	echo "Restarting the server. . . "
+	exit 1
+fi
+
+
+
 if [ $1 == "stop" ]
 then
 	PID=$( ps aux | grep "jekyll serve" | head -1 | head -c 14 | tail -c 4 )
