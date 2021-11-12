@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What is an IP Address?"
-categories: intro IP
+tags: intro IP
 ---
 
 # What is an IP address?

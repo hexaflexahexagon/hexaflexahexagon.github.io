@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Test Post"
-categories: jekyll
+tags: test post lol
 ---
 
 This is a test post while I try and figure out how the hell the web works. Look, a code block!
