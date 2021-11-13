@@ -1,0 +1,21 @@
+name: Website Edit
+description: A change to the website's setup to consider
+labels: ["status: not started"]
+assignees: hexaflexahexagon
+body:
+  - type: textarea
+    attributes: 
+      label: Describe the change
+      description: What should be changed? How should it look like? 
+    validations:
+      required: true
+  
+  - type: dropdown
+    attributes: 
+      label: Location of change
+      options:
+        - Backend
+        - Frontend
+        - Both
+    validations:
+      required: false

@@ -1,0 +1,18 @@
+name: New Post
+description: A new topic/idea to consider writing a post about
+labels: ["type: new post", "status: not started"]
+assignees: hexaflexahexagon
+body:
+  - type: textarea
+    attributes: 
+      label: Describe the post idea
+      description: What should the post be about? What basic topics should it cover? 
+    validations:
+      required: true
+  
+  - type: textarea
+    attributes: 
+      label: List some tags for the post
+      description: Optionally, list some tags that may be relevant to the post
+    validations:
+      required: false

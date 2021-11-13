@@ -1,0 +1,10 @@
+name: Blank Template
+description: A blank template for a change that does not fit anywhere else
+labels: ["status: not started"]
+assignees: hexaflexahexagon
+body:
+  - type: textarea
+    attributes: 
+      label: Describe the issue
+    validations:
+      required: true
