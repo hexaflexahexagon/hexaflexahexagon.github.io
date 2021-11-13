@@ -21,6 +21,7 @@ youtube_username: hex
 
 # Excludes
 exclude:
+  - server.sh
   - .git
   - .github
   - Gemfile
