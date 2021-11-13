@@ -1,3 +1,5 @@
+#!/bin/bash
+
 if [ -z $1 ] 
 then
 	echo "Error: You must use \`start\`, \`stop\`, or \`restart\` when running this script!"
