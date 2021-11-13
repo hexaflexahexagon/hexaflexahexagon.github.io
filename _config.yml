@@ -4,6 +4,10 @@ author: hex
 description: >-
   Insert Description Here!!
 
+# Enable excerpts
+show_excerpts: true
+excerpt_separator: <!--preview-->
+
 domain: hexaflexahexagon.github.io
 baseurl: / # the subpath of your site, e.g. /blog
 url: https://hexaflexahexagon.github.io 

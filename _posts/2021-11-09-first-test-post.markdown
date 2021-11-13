@@ -6,6 +6,8 @@ tags: test post lol
 
 This is a test post while I try and figure out how the hell the web works. Look, a code block!
 
+<!--preview-->
+
 ```
 1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
     inet 127.0.0.1/8 scope host lo
