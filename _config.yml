@@ -8,6 +8,7 @@ description: >-
 show_excerpts: true
 excerpt_separator: <!--preview-->
 
+# Domain info
 domain: hexaflexahexagon.github.io
 baseurl: / # the subpath of your site, e.g. /blog
 url: https://hexaflexahexagon.github.io 
