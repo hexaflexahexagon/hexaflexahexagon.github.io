@@ -4,8 +4,6 @@ title:  "What is an IP Address?"
 tags: intro IP
 ---
 
-# What is an IP address?
-
 While the question may seem simple, to many who are new to the IT scene it may not be so obvious as to what an IP address truly is. IP addresses are logical and dynamic addresses applied to [Layer 3](https://en.wikipedia.org/wiki/OSI_protocols) device interfaces. Let's give an example: A computer with an internet connection must have some sort of IP address in order to talk to the LAN's router and reach the internet. Most commonly, this IP would either be assigned to the Ethernet interface that a cable is plugged into or a WiFi adapter, where the computer has previously joined an SSID. Or, both! A device can have as many IP addresses as it has interfaces (or with virtual interfaces even more). 
 
 IP addresses are critical as they allow computers to be grouped into networks that can communicate interdependently.
