@@ -18,3 +18,12 @@ permalink: /post/:title
 twitter_username: flexahexagon
 github_username: hexaflexahexagon
 youtube_username: hex
+
+# Excludes
+exclude:
+  - .git
+  - .github
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
