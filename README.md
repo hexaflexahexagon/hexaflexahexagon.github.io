@@ -10,7 +10,7 @@ Find the website at https://hexaflexahexagon.github.io
 
 Host locally using the included script:
 ```
-./start.sh start # Start the server if not running
-./start.sh stop # Stop the server if running
-./start.sh restart # Restart the server regardless of if it is running
+./server.sh start # Start the server if not running
+./server.sh stop # Stop the server if running
+./server.sh restart # Restart the server regardless of if it is running
 ```
